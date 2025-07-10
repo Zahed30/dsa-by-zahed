@@ -27,16 +27,6 @@ This repository contains my complete DSA (Data Structures & Algorithms) journey 
 📂 Files: `LinearSearch.java`, `LinearSearchString.java`
 
 
-## 🧠 Topics Covered
-
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Recursion
-- Stack, Queue
-- More coming soon...
-
 ---
 
 👨‍💻 Author: Zahed Hussain
