@@ -13,6 +13,19 @@ This repository contains my complete DSA (Data Structures & Algorithms) journey 
 | 3   | Sorting (Bubble)  | ⏳ Planned |
 
 ---
+# 🔍 Searching - Day 1
+
+## ✅ Linear Search (int array)
+- Searches for a number in an integer array using linear search.
+
+## ✅ Linear Search (String array)
+- Searches for a word in a string array.
+
+---
+
+🧠 Time Complexity: O(n)  
+📂 Files: `LinearSearch.java`, `LinearSearchString.java`
+
 
 ## 🧠 Topics Covered
 
