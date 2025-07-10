@@ -5,7 +5,7 @@ public class LinearSearch {
         int ans=search(num, target);
         System.out.println(ans);
     }
-    //search for elemet if its found
+    //search for elemet if its found return the index 
     //else return -1
     static int search(int[]arr,int target){
         if (arr.length==0) {
