@@ -27,7 +27,7 @@ This repository contains my complete DSA (Data Structures & Algorithms) journey 
 📂 Files: `LinearSearch.java`, `LinearSearchString.java`
 
 ---
-###📌 Binary Search
+### 📌 Binary Search
 Binary Search is an efficient searching algorithm used on sorted arrays.
 It works by repeatedly dividing the search space in half until the target is found or the search space becomes empty.
 
@@ -41,11 +41,12 @@ Best Case: O(1)
 
 Worst Case: O(log n)
 
-📂 Files
 File	Description
-# BinarySearch.java	: Standard binary search on ascending sorted array
-# OrderAgnosticBinarySearch.java:	Binary search that works for both order types
-
+📂 Files:
+`LinearSearch.java` :  Standard binary search on ascending sorted array
+`LinearSearchString.java` : Binary search that works for both order types
+ 
+---
 
 👨‍💻 Author: Zahed Hussain
 🎓 BCA Final Year | SDE Aspirant
