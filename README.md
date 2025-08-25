@@ -12,7 +12,7 @@
 | 2   | Binary Search      | ✅ Done   |
 | 3   | Bubble Sort        | ✅ Done   |
 | 4   | Selection Sort     | ✅ Done   |
-| 5   | Insertion Sort     | ⏳ Pending |
+| 5   | Insertion Sort     | ✅ Done   |
 | 6   | Merge Sort         | ⏳ After Recursion |
 
 ---
@@ -64,6 +64,31 @@ It works by repeatedly **dividing the search range in half** until the target is
 If the array is not sorted, sort it first or use a different algorithm like Linear Search.  
 
 ---
+# 📁 04.Sorting
+
+### 🔸 Topics Covered:
+
+- Bubble Sort (basic idea & swapping adjacent elements)  
+- Selection Sort (finding min element and placing at correct position)  
+- Insertion Sort (building a sorted portion step by step)  
+
+---
+### ⏱️ Time Complexities:
+
+| Algorithm      | Best Case   | Average Case | Worst Case   | Space Complexity |
+|----------------|-------------|--------------|--------------|------------------|
+| Bubble Sort    | O(n)        | O(n²)        | O(n²)        | O(1)             |
+| Selection Sort | O(n²)       | O(n²)        | O(n²)        | O(1)             |
+| Insertion Sort | O(n)        | O(n²)        | O(n²)        | O(1)             |
+---
+
+### 📂 Files:
+
+| File                | Description                                      |
+|----------------------|--------------------------------------------------|
+| `BubbleSort.java`    | Implementation of Bubble Sort with example array |
+| `SelectionSort.java` | Implementation of Selection Sort with example array |
+| `InsertionSort.java` | Implementation of Insertion Sort with example array |
 
 👨‍💻 **Author**: Zahed Hussain  
 🎓 BCA Final Year | SDE Aspirant  
