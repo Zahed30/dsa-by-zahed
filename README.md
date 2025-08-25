@@ -1,17 +1,19 @@
 # 📘 DSA by Zahed
 
-This repository contains my complete **DSA (Data Structures & Algorithms)** journey using **Java**.
+### This repository contains my complete **DSA (Data Structures & Algorithms)** journey using **Java**.
 
 ---
 
-## 📅 Progress Tracker
+## 📅 Progress Tracker  
 
-| Day | Topic                        | Status  |
-|-----|------------------------------|---------|
-| 1   | Linear Search                | ✅ Done |
-| 2   | Binary Search Basics         | ✅ Done |
-| 3   | Binary Search Variations     | ✅ Done |
-| 4   | Sorting (Bubble, etc.)       | ⏳ Planned |
+| Day | Topic              | Status    |
+|-----|--------------------|-----------|
+| 1   | Linear Search      | ✅ Done   |
+| 2   | Binary Search      | ✅ Done   |
+| 3   | Bubble Sort        | ✅ Done   |
+| 4   | Selection Sort     | ✅ Done   |
+| 5   | Insertion Sort     | ⏳ Pending |
+| 6   | Merge Sort         | ⏳ After Recursion |
 
 ---
 
@@ -56,15 +58,6 @@ It works by repeatedly **dividing the search range in half** until the target is
 |------------|------------|
 | **Best**   | O(1)       |
 | **Worst**  | O(log n)   |
-
----
-
-## 📂 File List  
-
-- **BinarySearch.java** → Standard binary search on ascending sorted array.  
-- **OrderAgnosticBinarySearch.java** → Works for both ascending and descending arrays.  
-- **Ceiling.java**, **floor.java**, **FirstAndLastPosition.java**, **CountRotation.java**, **Rotated.java**, **Smallest.java**, **Mountain.java**, **SplitArray.java**, **RowColMatrix.java**, **SortedMatrix.java**  
-
 ---
 
 💡 **Tip:** Binary Search only works on **sorted** arrays.  
