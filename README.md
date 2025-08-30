@@ -6,14 +6,16 @@
 
 ## 📅 Progress Tracker  
 
-| Day | Topic              | Status    |
+| S.no | Topic              | Status    |
 |-----|--------------------|-----------|
 | 1   | Linear Search      | ✅ Done   |
 | 2   | Binary Search      | ✅ Done   |
-| 3   | Bubble Sort        | ✅ Done   |
-| 4   | Selection Sort     | ✅ Done   |
-| 5   | Insertion Sort     | ✅ Done   |
-| 6   | Merge Sort         | ⏳ After Recursion |
+| 3  | Binary search variations     | ✅ Done |
+| 4   | Bubble Sort        | ✅ Done   |
+| 5   | Selection Sort     | ✅ Done   |
+| 6   | Insertion Sort     | ✅ Done   |
+| 7  | Two Pointers      | ✅ Done |
+| 8   | Merge Sort         | ⏳ After Recursion |
 
 ---
 
@@ -90,5 +92,41 @@ If the array is not sorted, sort it first or use a different algorithm like Line
 | `SelectionSort.java` | Implementation of Selection Sort with example array |
 | `InsertionSort.java` | Implementation of Insertion Sort with example array |
 
+----
+# 📁 05.Two Pointers  
+
+### 🔸 Topics Covered:
+
+- Concept of **two pointers technique** to reduce time complexity.  
+- Solving problems using left and right pointers.  
+- Optimized solutions for array/string problems.  
+
+---
+
+### ⏱️ Time Complexities (General):
+
+| Problem                        | Time Complexity | Space Complexity |
+|--------------------------------|-----------------|------------------|
+| Reverse String                 | O(n)           | O(1)             |
+| Palindrome Check               | O(n)           | O(1)             |
+| Pair Sum in Sorted Array       | O(n)           | O(1)             |
+| Move Zeroes to End             | O(n)           | O(1)             |
+| Remove Duplicates from Sorted  | O(n)           | O(1)             |
+| Container With Most Water      | O(n)           | O(1)             |
+
+---
+
+### 📂 Files:
+
+| File                  | Description                                     |
+|------------------------|-------------------------------------------------|
+| `ReverseString.java`   | Reverses a string using two pointers            |
+| `Palindrome.java`      | Checks if a string is a palindrome              |
+| `Pair1sum.java`        | Finds a pair with a given sum in sorted array   |
+| `MoveZeroes.java`      | Moves all zeroes to the end of an array         |
+| `RemoveDuplicate.java` | Removes duplicates from a sorted array          |
+| `MostWater.java`       | Solves "Container With Most Water" problem      |
+
+----
 👨‍💻 **Author**: Zahed Hussain  
 🎓 BCA Final Year | SDE Aspirant  
