@@ -105,27 +105,35 @@ If the array is not sorted, sort it first or use a different algorithm like Line
 
 ### ⏱️ Time Complexities (General):
 
-| Problem                        | Time Complexity | Space Complexity |
-|--------------------------------|-----------------|------------------|
-| Reverse String                 | O(n)           | O(1)             |
-| Palindrome Check               | O(n)           | O(1)             |
-| Pair Sum in Sorted Array       | O(n)           | O(1)             |
-| Move Zeroes to End             | O(n)           | O(1)             |
-| Remove Duplicates from Sorted  | O(n)           | O(1)             |
-| Container With Most Water      | O(n)           | O(1)             |
+| Problem                          | Time Complexity | Space Complexity |
+|----------------------------------|-----------------|------------------|
+| Reverse String                   | O(n)            | O(1)             |
+| Palindrome Check                 | O(n)            | O(1)             |
+| Pair Sum in Sorted Array         | O(n)            | O(1)             |
+| Move Zeroes to End               | O(n)            | O(1)             |
+| Remove Duplicates from Sorted    | O(n)            | O(1)             |
+| Container With Most Water        | O(n)            | O(1)             |
+| Sort Colors (Dutch National Flag)| O(n)            | O(1)             |
+| Squares of Sorted Array          | O(n)            | O(n)             |
+| Trapping Rain Water              | O(n)            | O(1)             |
+| 3Sum                             | O(n²)           | O(1)             |
 
 ---
 
 ### 📂 Files:
 
-| File                  | Description                                     |
-|------------------------|-------------------------------------------------|
-| `ReverseString.java`   | Reverses a string using two pointers            |
-| `Palindrome.java`      | Checks if a string is a palindrome              |
-| `Pair1sum.java`        | Finds a pair with a given sum in sorted array   |
-| `MoveZeroes.java`      | Moves all zeroes to the end of an array         |
-| `RemoveDuplicate.java` | Removes duplicates from a sorted array          |
-| `MostWater.java`       | Solves "Container With Most Water" problem      |
+| File                    | Description                                          |
+|--------------------------|------------------------------------------------------|
+| `ReverseString.java`     | Reverses a string using two pointers                 |
+| `Palindrome.java`        | Checks if a string is a palindrome                   |
+| `Pair1sum.java`          | Finds a pair with a given sum in a sorted array      |
+| `MoveZeroes.java`        | Moves all zeroes to the end of an array              |
+| `RemoveDuplicate.java`   | Removes duplicates from a sorted array               |
+| `MostWater.java`         | Solves "Container With Most Water" problem           |
+| `SortColors.java`        | Sorts 0s, 1s, and 2s using Dutch National Flag algo  |
+| `SquareSorted.java`      | Returns squares of sorted array in sorted order      |
+| `TrappingRainWater.java` | Calculates trapped rainwater using two pointers      |
+| `Ill_sum.java`           | Solves the 3Sum problem using sorting + two pointers |
 
 ----
 👨‍💻 **Author**: Zahed Hussain  
