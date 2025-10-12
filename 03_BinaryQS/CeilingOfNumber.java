@@ -11,8 +11,8 @@ public class CeilingOfNumber {
     }
 // return the index of smallest no>=target
 static int ceiling1(int arr[],int target){
-    if (target>arr.length-1) {
-    return -1;        
+    if (target>arr[arr.length - 1]) {
+        return -1;        
     }
     int start=0;
     int end=arr.length-1;
