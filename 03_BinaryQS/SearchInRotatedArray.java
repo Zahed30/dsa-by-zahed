@@ -3,7 +3,7 @@
 public class SearchInRotatedArray {
     public static void main(String[] args) {
         
-        int arr[]={4,5,6,3,0,1,2};
+        int arr[]={4,5,6,7,0,1,2};
             int result=search(arr, 5);
             System.out.println(findPiviot(arr));//this to find pivot
             System.out.println(result);
