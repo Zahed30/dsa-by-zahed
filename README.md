@@ -36,7 +36,10 @@
 - **BestTimeToBuySellStock.java** (LC 121) → Single-pass greedy approach for max profit.
 - **MaximumSubarray.java** (LC 53) → Implementation of **Kadane’s Algorithm**.
 
-
+### 🟢 Day 3: Duplicates & Missing Elements
+*Focus: Hashing and Mathematical Optimization*
+- **ContainsDuplicate.java** (LC 217) → Using HashSet for $O(n)$ detection.
+- **MissingNumber.java** (LC 268) → Using Summation formula for $O(1)$ space.
 
 ---
 
