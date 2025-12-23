@@ -37,10 +37,10 @@
 - **MaximumSubarray.java** (LC 53) → Implementation of **Kadane’s Algorithm**.
 
 ### 🟢 Day 3: Duplicates & Missing Elements
-*Focus: Hashing and Mathematical Optimization*
+*Focus: Hashing, Frequencies, and Mathematical Logic*
 - **ContainsDuplicate.java** (LC 217) → Using HashSet for $O(n)$ detection.
 - **MissingNumber.java** (LC 268) → Using Summation formula for $O(1)$ space.
-
+- **SetMismatch.java** (LC 645) → Frequency counting to find both duplicate and missing values.
 ---
 
 # 🔍 Searching  
