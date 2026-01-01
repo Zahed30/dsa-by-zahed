@@ -30,7 +30,6 @@
 - **PivotIndex.java** (LC 724) → Finding equilibrium using total sum.
 
 
-
 ### 🟢 Day 2: Optimization & Greedy
 *Focus: Greedy approach and Kadane’s Algorithm.*
 - **BestTimeToBuySellStock.java** (LC 121) → Single-pass greedy approach for max profit.
@@ -42,7 +41,19 @@
 - **MissingNumber.java** (LC 268) → Using Summation formula for $O(1)$ space.
 - **SetMismatch.java** (LC 645) → Frequency counting to find both duplicate and missing values.
 ---
+# 📁 02. Strings
 
+### 🟢 DAY 4  — String Basics + Anagram Pattern
+*Focus: String Traversal, Character Frequency (int[26]), and Two-Pointer logic.*
+
+- **ValidPalindrome.java** (LC 125) → Optimized O(n) check ignoring special characters.
+- **ValidAnagram.java** (LC 242) → Using `c - 'a'` mapping for O(n) frequency comparison.
+- **FirstUniqueCharacter.java** (LC 387) → Two-pass logic for character uniqueness.
+
+> **💡 Pattern: String Frequency**
+> Used when dealing with anagrams or counting character occurrences. 
+> Key Idea: Use a fixed-size `int[26]` array when the character set is small.
+---
 # 🔍 Searching  
 
 ### ✅ Linear Search  
