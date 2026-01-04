@@ -40,6 +40,18 @@
 - **ContainsDuplicate.java** (LC 217) → Using HashSet for $O(n)$ detection.
 - **MissingNumber.java** (LC 268) → Using Summation formula for $O(1)$ space.
 - **SetMismatch.java** (LC 645) → Frequency counting to find both duplicate and missing values.
+
+---
+
+## 🟢 (Day 5)
+*Focus: Complement Logic, Index Mapping, and Boyer-Moore Algorithm.*
+
+| Problem | Link | Solution | Complexity |
+| :--- | :--- | :--- | :--- |
+| Two Sum (Brute & Map) | [LC 1](https://leetcode.com/problems/two-sum/) | [Code](./01_Arrays/TwoSum.java) | O(n) Time, O(n) Space |
+| Majority Element | [LC 169](https://leetcode.com/problems/majority-element/) | [Code](./01_Arrays/MajorityElement.java) | O(n) Time, O(1) Space |
+
+> **💡 Key Takeaway:** Use a HashMap to store "seen" values. This simple trick reduces many $O(n^2)$ problems to $O(n)$.
 ---
 # 📁 02. Strings
 
