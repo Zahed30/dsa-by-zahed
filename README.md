@@ -52,6 +52,15 @@
 | Majority Element | [LC 169](https://leetcode.com/problems/majority-element/) | [Code](./01_Arrays/MajorityElement.java) | O(n) Time, O(1) Space |
 
 > **💡 Key Takeaway:** Use a HashMap to store "seen" values. This simple trick reduces many $O(n^2)$ problems to $O(n)$.
+
+##  (Day 6)
+*Focus: Prefix/Suffix Products and Prefix Sum with Hashing.*
+
+- `ProductExceptSelf.java` → $O(n)$ solution using prefix/suffix logic without division.
+- `SubarraySumK.java` → $O(n)$ solution using Prefix Sum and HashMap memory.
+
+> **Pattern: Prefix/Suffix Optimization**
+> Used to avoid $O(n^2)$ when you need to "exclude" an element or find "continuous segments" (subarrays).
 ---
 # 📁 02. Strings
 
