@@ -42,6 +42,12 @@
 - **SetMismatch.java** (LC 645) → Frequency counting to find both duplicate and missing values.
 
 ---
+### 🟢 Array Challenges (Day 4)
+*Focus: Linear Scanning, Sorting Logic, and Prefix Sum tracking.*
+
+- **[LC 414] ThirdMaximumNumber.java** → $O(n)$ logic to find the 3rd distinct maximum.
+- **[LC 1732] HighestAltitude.java** → $O(n)$ Prefix Sum implementation to track peak elevation.
+---
 
 ## 🟢 (Day 5)
 *Focus: Complement Logic, Index Mapping, and Boyer-Moore Algorithm.*
@@ -64,7 +70,7 @@
 ---
 # 📁 02. Strings
 
-### 🟢 DAY 4  — String Basics + Anagram Pattern
+### 🟢 DAY 1  — String Basics + Anagram Pattern
 *Focus: String Traversal, Character Frequency (int[26]), and Two-Pointer logic.*
 
 - **ValidPalindrome.java** (LC 125) → Optimized O(n) check ignoring special characters.
