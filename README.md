@@ -17,7 +17,7 @@
 | 7   | Insertion Sort     | ✅ Done    |
 | 8   | Two Pointers       | ✅ Done    |
 | 9   | Sliding Window     | ✅ Done    |
-| 10  | Merge Sort         | ⏳ After Recursion |
+| 10  | Mathematics        | ✅ Done    |
 
 ---
 
@@ -169,6 +169,21 @@ It works by repeatedly **dividing the search range in half** until the target is
 | 3Sum                             | $O(n^2)$ | $O(1)$ |
 
 
+
+---
+# 📁 08. Mathematics
+
+### 🟢 Core Foundations
+*Focus: Primality, Divisibility, and Numerical Optimization.*
+
+- **Palindrome.java** → $O(log_{10}n)$ reversal logic.
+- **GCD.java** → Efficient **Euclidean Algorithm** implementation.
+- **LCM.java** → Relationship between GCD and Product.
+- **TrailingZeros.java** → $O(log_5n)$ logic to handle factorial zeros without overflow.
+- **CheckPrime.java** → Optimized $O(\sqrt{n})$ primality testing.
+- **SieveOfEratosthenes.java** → $O(n \log \log n)$ approach to find all primes up to $N$.
+
+> **💡 Key Takeaway:** In competitive programming and AI, math optimization is usually about reducing a linear $O(n)$ search into a logarithmic $O(\log n)$ or square root $O(\sqrt{n})$ solution.
 
 ---
 
